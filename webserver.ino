@@ -1,7 +1,7 @@
 #include <ESP8266WiFi.h>
 
-const char* ssid = "kelompok3"; // Adjust to your network SSID
-const char* password = "harusbahagia"; // Adjust to your network password
+const char* ssid = " "; // Adjust to your network SSID
+const char* password = " "; // Adjust to your network password
 
 #define ON HIGH
 #define OFF LOW
